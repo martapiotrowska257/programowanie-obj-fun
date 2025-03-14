@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd603347-83d7-497d-80c9-b75303f7529e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pojava/lab1/zadA/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pojava/lab1/zadA/Hello.java" afterDir="false" />
+    <list default="true" id="bd603347-83d7-497d-80c9-b75303f7529e" name="Changes" comment="zadanie B lab1">
+      <change afterPath="$PROJECT_DIR$/src/pojava/lab1/zadB/TablicaStringow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pojava/lab1/zadB/TablicaStringow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +56,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741917702968</updated>
-      <workItem from="1741917703996" duration="1520000" />
+      <workItem from="1741917703996" duration="2503000" />
     </task>
+    <task id="LOCAL-00001" summary="zadanie A lab1">
+      <option name="closed" value="true" />
+      <created>1741919277877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741919277877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +74,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="zadanie A lab1" />
+    <MESSAGE value="zadanie B lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie B lab1" />
   </component>
 </project>
