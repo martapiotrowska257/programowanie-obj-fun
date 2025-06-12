@@ -4,4 +4,7 @@
 	<lib name="h2-1.4.197.jar" scope="COMPILE">
 		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/h2-1.4.197.jar!/"/>
 	</lib>
+	<levels>
+		<level name="jfree.jfreechart" value="project"/>
+	</levels>
 </component>
